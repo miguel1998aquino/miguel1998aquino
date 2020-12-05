@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+hola Mi nombre es Miguel Angel Aquino salcedo
+-Actualmente estoy estudiando Ingenieria Informatica y de Sistemas 
+-Me gusta el area de Diseñador web con phyton
 <!--
 **miguel1998aquino/miguel1998aquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
